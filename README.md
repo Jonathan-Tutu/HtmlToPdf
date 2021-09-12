@@ -5,6 +5,6 @@ Permet de convertir le contenu d'un site html en pdf et ensuite l'envoyer par ma
 Demander s'il doit être universel pour les clients ou seulement pour {{client}}
 
 Pour l'utiliser ou développer, il faut télécharger https://wkhtmltopdf.org/
-Et rajouter dans le PATh : = C:ProgramFiles\wkhtmltopdf\bin 
+Et rajouter dans le Path : = C:ProgramFiles\wkhtmltopdf\bin 
 
 
